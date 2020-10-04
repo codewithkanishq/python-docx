@@ -20,7 +20,7 @@ Office 2008, Google Docs, OpenOffice.org 3, and Apple iWork 08.
 
 They also `validate as well formed XML <http://validator.w3.org/check>`_.
 
-The module was created when I was looking for a Python support for MS Word
+Th module was created when I was looking for a Python support for MS Word
 .docx files, but could only find various hacks involving COM automation,
 calling .Net or Java, or automating OpenOffice or MS Office.
 
